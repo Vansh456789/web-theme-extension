@@ -40,7 +40,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Developed by **Vansh Raj Singh**
+Developed by -**Vansh Raj Singh**
 
 Email- vansh79iiitr@gmail.com
 ```
