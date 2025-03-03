@@ -12,9 +12,6 @@
   📸 Screenshots
 ![image](https://github.com/user-attachments/assets/924ca966-7384-4247-a004-3e124cc81203)
 ![image](https://github.com/user-attachments/assets/d9e6f7c0-6bc5-47d1-b60e-18f39996d40f)
-![image](https://github.com/user-attachments/assets/6a2018f5-d824-4696-9d2d-fa6cd9b76f64)
-![image](https://github.com/user-attachments/assets/5f35773f-0377-4429-a590-86c3eda3d244)
-![image](https://github.com/user-attachments/assets/caa394bd-8779-44c1-ac13-88ba9a2d0f23)
 ![image](https://github.com/user-attachments/assets/72940b72-9672-4c39-b2a9-853b1b23991e)
 ![image](https://github.com/user-attachments/assets/ff8cbb2f-0e3a-4dc7-976c-4e2455eb0b50)
 ![image](https://github.com/user-attachments/assets/5494624c-09fb-4520-ab29-92912c61e908)
