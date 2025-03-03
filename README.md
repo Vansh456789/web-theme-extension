@@ -1,4 +1,3 @@
-```
 # Website Theme Customizer - Chrome Extension
 
 🎨 A simple Chrome extension that allows users to customize the theme, including font, font size, text color, and background color of any website for a personalized reading experience.
