@@ -9,6 +9,8 @@
 - Reset styles to the original website theme
 - Automatically apply saved preferences on page reload
 
+  📸 Screenshots
+
 ## Installation Guide
 1. **Clone the Repository**  
    ```sh
