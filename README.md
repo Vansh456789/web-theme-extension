@@ -40,9 +40,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-💡 **Contributions & Feedback**  
-Feel free to contribute or provide feedback by opening an issue or submitting a pull request. 🚀  
-Developed by **[Your Name](https://github.com/yourusername)**
+Developed by **Vansh Raj Singh**
+Email- vansh79iiitr@gmail.com
 ```
-
-Replace **"yourusername"** with your GitHub username before pushing. 🚀
+fore pushing. 🚀
